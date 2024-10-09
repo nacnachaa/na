@@ -10,7 +10,7 @@ int main()
     
     if(choice > 4)
     {
-    printf("Salah masukin kocak\n");
+    printf("You entered wrong choice\n");
     }
     else
     {
@@ -40,7 +40,7 @@ int main()
     }
     else
     {
-        printf("Tolong pilih seadanya! no 1, 2, 3, 4!\n");
+        printf("Please enter any of these no 1, 2, 3, 4!\n");
     }
     
 
